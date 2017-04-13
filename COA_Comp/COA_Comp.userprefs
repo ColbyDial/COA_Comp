@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Strobing.cs">
+    <Files>
+      <File FileName="Assets\FetchScript.cs" Line="26" Column="20" />
+      <File FileName="Assets\Scripts\Stepping.cs" Line="10" Column="24" />
+      <File FileName="Assets\Scripts\Strobing.cs" Line="132" Column="37" />
+      <File FileName="Assets\Scripts\MemoryScript.cs" Line="77" Column="47" />
+      <File FileName="Assets\Scripts\Cscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\resetClock.cs" Line="12" Column="3" />
+      <File FileName="Assets\ClockScript.cs" Line="29" Column="19" />
+      <File FileName="Assets\ALUScript.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\Ascript.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\MDscript.cs" Line="23" Column="2" />
+      <File FileName="Assets\FullInstructionBinScript.cs" Line="42" Column="34" />
+      <File FileName="Assets\InstructionScript.cs" Line="6" Column="1" />
+      <File FileName="Assets\childBintoHex.cs" Line="23" Column="50" />
+      <File FileName="Assets\Scripts\Rscript.cs" Line="13" Column="17" />
+      <File FileName="Assets\FullInstructionDecScript.cs" Line="18" Column="37" />
+      <File FileName="Assets\Scripts\busScript.cs" Line="98" Column="21" />
+      <File FileName="Assets\Scripts\Clearing.cs" Line="52" Column="9" />
+      <File FileName="Assets\Scripts\PCscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\EditPC.cs" Line="27" Column="26" />
+      <File FileName="Assets\EditMemScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
